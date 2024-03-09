@@ -1,0 +1,33 @@
+
+div{
+    text-align: center;
+    
+}
+
+body{
+    background-color: black;
+}
+
+.unordered-list{
+    list-style-type: none;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+}
+.Heading{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    
+}
+
+.text{
+    color: white;
+    margin-bottom: 8px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
